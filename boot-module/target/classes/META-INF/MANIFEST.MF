@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: boot-module
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: springboot-mybatis
+Build-Jdk: 1.6.0_24
+Built-By: Ryan
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org/boot-module
+
